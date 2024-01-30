@@ -3,7 +3,7 @@ name = "quickbook_api_test"
 authors = [
     { name = "nilesh pithiya", email = "nilesh@sanskartechnolab.com"}
 ]
-description = "asdf"
+description = "test"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

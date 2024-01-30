@@ -1,7 +1,7 @@
 app_name = "quickbook_api_test"
 app_title = "Quickbook Api Test"
 app_publisher = "nilesh pithiya"
-app_description = "asdf"
+app_description = "test"
 app_email = "nilesh@sanskartechnolab.com"
 app_license = "mit"
 # required_apps = []
